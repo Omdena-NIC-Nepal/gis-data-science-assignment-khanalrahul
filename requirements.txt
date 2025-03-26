@@ -1,6 +1,0 @@
-pandas
-geopandas
-matplotlib
-seaborn
-numpy
-rasterio
